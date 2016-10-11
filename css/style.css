@@ -959,13 +959,17 @@ a.buy:hover {
 
 /* Color Schemes
 =================================================================== */
+/* Color - items */
+.pricing-table .color-items h3, .color-items .buy {background-color: #908f8f;color: #c9fafd;}
+.pricing-table .color-items h4 {background-color: #908f8f;color: #c9fafd;}
+.pricing-table .color-items li {border: 1px solid #7c7c7c;border-top: none;}
 
 /* Color - 1 */
 .pricing-table .color-cccddd h3, .color-cccddd .buy {background-color: #ccc;}
 .pricing-table .color-cccddd h4 {background-color: #ddd;}
 
 /* Color - 2 */
-.pricing-table .color-666777 h3, .color-666777 .buy {background-color: #666;}
+.pricing-table .color-666777 h3, .color-666777 .buy {background-color:rgba(43, 124, 245, 0.7);}
 .pricing-table .color-666777 h4 {background-color: #777;}
 
 /* Color - 3 */
